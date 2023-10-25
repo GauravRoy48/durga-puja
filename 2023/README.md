@@ -34,29 +34,22 @@
 ![Pic4](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%201%20-%20Shashthi/SORRBA%20-%20Sarjapur%20Outer%20Ring%20Road%20Bengali%20Association/1698217704321.jpg?raw=true)
 
 ## Day 2 - Saptami
-### SORRBA - Sarjapur Outer Ring Road Bengali Association (Sarjapur)
-![Pic1](?raw=true)
-![Pic2](?raw=true)
-![Pic3](?raw=true)
-![Pic4](?raw=true)
+### BA - Bengalee Association (Ulsoor)
+![Pic1](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%202%20-%20Saptami/BA%20-%20Bengalee%20Association/1698217632115.jpg?raw=true)
+![Pic2](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%202%20-%20Saptami/BA%20-%20Bengalee%20Association/1698217632132.jpg?raw=true)
+![Pic3](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%202%20-%20Saptami/BA%20-%20Bengalee%20Association/1698217632149.jpg?raw=true)
 
-### SORRBA - Sarjapur Outer Ring Road Bengali Association (Sarjapur)
-![Pic1](?raw=true)
-![Pic2](?raw=true)
-![Pic3](?raw=true)
-![Pic4](?raw=true)
+### SCA - Socio Cultural Association (Indiranagar)
+![Pic1](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%202%20-%20Saptami/SCA%20-%20Socio%20Cultural%20Association/1698217649206.jpg?raw=true)
+![Pic2](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%202%20-%20Saptami/SCA%20-%20Socio%20Cultural%20Association/1698217649251.jpg?raw=true)
 
 ## Day 3 - Ashtami
-### SORRBA - Sarjapur Outer Ring Road Bengali Association (Sarjapur)
-![Pic1](?raw=true)
-![Pic2](?raw=true)
-![Pic3](?raw=true)
-![Pic4](?raw=true)
+### SARATHI - Sarathi Socio Cultural Trust Bangalore (Koramangala)
+![Pic1](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%203%20-%20Ashtami/SARATHI%20-%20Sarathi%20Socio%20Cultural%20Trust%20Bangalore/1698217591986.jpg?raw=true)
+![Pic2](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%203%20-%20Ashtami/SARATHI%20-%20Sarathi%20Socio%20Cultural%20Trust%20Bangalore/1698217592009.jpg?raw=true)
+![Pic3](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%203%20-%20Ashtami/SARATHI%20-%20Sarathi%20Socio%20Cultural%20Trust%20Bangalore/1698217592031.jpg?raw=true)
 
-### SORRBA - Sarjapur Outer Ring Road Bengali Association (Sarjapur)
-![Pic1](?raw=true)
-![Pic2](?raw=true)
-![Pic3](?raw=true)
-![Pic4](?raw=true)
+### WCA - Whitefield Cultural Association (Whitefield)
+![Pic1](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%203%20-%20Ashtami/WCA%20-%20Whitefield%20Cultural%20Association/1698217614084.jpg?raw=true)
 
 ## Day 4 - Nabami
