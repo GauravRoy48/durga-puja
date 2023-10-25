@@ -6,13 +6,13 @@
   - EISHA
   - GGLCA
   - SORRBA
-- [Day 2 - Shashthi](#Day-2---Saptami)
+- [Day 2 - Saptami](#Day-2---Saptami)
   - BA
   - SCA
-- [Day 3 - Shashthi](#Day-3---Ashtami)
+- [Day 3 - Ashtami](#Day-3---Ashtami)
   - SARATHI
   - WCA
-- [Day 4 - Shashthi](#Day-4---Nabami)
+- [Day 4 - Nabami](#Day-4---Nabami)
   - Agomoni
   - BDPC
   - Jayamahal
