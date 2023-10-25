@@ -29,7 +29,7 @@
 ## EISHA - East Indian Social HSR Association (HSR)
 ![Pic1](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%201%20-%20Shashthi/EISHA%20-%20East%20Indian%20Social%20HSR%20Association/1698217666434.jpg?raw=true)
 ![Pic2](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%201%20-%20Shashthi/EISHA%20-%20East%20Indian%20Social%20HSR%20Association/1698217666464.jpg?raw=true)
-![Pic3](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%201%20-%20Shashthi/EISHA%20-%20East%20Indian%20Social%20HSR%20Association/1698217666491.jpg?raw=true)
+![Pic3](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%201%20-%20Shashthi/EISHA%20-%20East%20Indian%20Social%20HSR%20Association/1698217666492.jpg?raw=true)
 
 ## GGLCA - Green Glen Layout Cultural Association (Bellandur)
 ![Pic1](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%201%20-%20Shashthi/GGLCA%20-%20Green%20Glen%20Layout%20Cultural%20Association/1698217797940.jpg?raw=true)
