@@ -46,7 +46,6 @@
 ## Day 3 - Ashtami
 ### SARATHI - Sarathi Socio Cultural Trust Bangalore (Koramangala)
 ![Pic1](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%203%20-%20Ashtami/SARATHI%20-%20Sarathi%20Socio%20Cultural%20Trust%20Bangalore/1698217591986.jpg?raw=true)
-![Pic2](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%203%20-%20Ashtami/SARATHI%20-%20Sarathi%20Socio%20Cultural%20Trust%20Bangalore/1698217592009.jpg?raw=true)
 ![Pic3](https://github.com/GauravRoy48/durga-puja/blob/main/2023/Bangalore%20Pujo%20-%202023/Day%203%20-%20Ashtami/SARATHI%20-%20Sarathi%20Socio%20Cultural%20Trust%20Bangalore/1698217592031.jpg?raw=true)
 
 ### WCA - Whitefield Cultural Association (Whitefield)
