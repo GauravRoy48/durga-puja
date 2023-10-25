@@ -2,9 +2,22 @@
 
 # Table of Contents
 - [Day 1 - Shashthi](#Day-1---Shashthi)
+  - BARSHA
+  - EISHA
+  - GGLCA
+  - SORRBA
 - [Day 2 - Shashthi](#Day-2---Saptami)
+  - BA
+  - SCA
 - [Day 3 - Shashthi](#Day-3---Ashtami)
+  - SARATHI
+  - WCA
 - [Day 4 - Shashthi](#Day-4---Nabami)
+  - Agomoni
+  - BDPC
+  - Jayamahal
+  - RTNSDPS
+
 
 # Day 1 - Shashthi
 ## BARSHA - Bengali Association for Residents of Sarjapur and HSR Area (HSR)
